@@ -1,7 +1,7 @@
 # main settings
 title:            Selections from John James Audubon's Birds of America at the Lilly Library
 description:      Online exhibit of the Lilly Librarys 1st edition of John James Audubon''s Birds of America.  This site was created using wax/minimal exhibitions
-url:              'http://mnyrop.github.io'
+url:              'http:/marii.info'
 baseurl:          '/audubon'
 
 # build settings
